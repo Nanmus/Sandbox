@@ -4,3 +4,6 @@ c:\users\connor\documents\visual studio 2015\Projects\TestApp\bin\Debug\TestApp.
 c:\users\connor\documents\visual studio 2015\Projects\TestApp\bin\Debug\TestApp.pdb
 c:\users\connor\documents\visual studio 2015\Projects\TestApp\obj\Debug\TestApp.exe
 c:\users\connor\documents\visual studio 2015\Projects\TestApp\obj\Debug\TestApp.pdb
+C:\Users\Connor\Source\Repos\Sandbox\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\Connor\Source\Repos\Sandbox\TestApp\obj\Debug\TestApp.exe
+C:\Users\Connor\Source\Repos\Sandbox\TestApp\obj\Debug\TestApp.pdb
